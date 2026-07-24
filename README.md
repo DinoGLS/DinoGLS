@@ -49,10 +49,10 @@
 
 | Projet | FR | EN | Lien |
 |---|---|---|---|
-| 💪 **N.C0re** | App fitness perso (React Native/Expo) — IA locale d'entraînement/nutrition, suivi menstruel, social, 21 sports. Utilisée en vrai 2-3h/jour. | Personal fitness app (React Native/Expo) — local training/nutrition AI, cycle tracking, social features, 21 sports. Actually used daily. | [Portfolio →](https://portfolio-charles-garlens.vercel.app/projects/app-track-muscu) |
-| 📄 **DocForge** | Générateur de livrables BTS : notes brutes → Markdown/PDF structuré (Flask, Groq/Gemini, pandoc, WeasyPrint). | BTS deliverable generator: raw notes → structured Markdown/PDF (Flask, Groq/Gemini, pandoc, WeasyPrint). | [Portfolio →](https://portfolio-charles-garlens.vercel.app/projects/docforge) |
-| 📋 **Générateur CV** | CV + lettre de motivation personnalisés par entreprise : couleurs de marque extraites, texte adapté par IA, PDF via Playwright. | Company-personalized resume + cover letter generator: brand colors extraction, AI-adapted text, Playwright PDF rendering. | [Portfolio →](https://portfolio-charles-garlens.vercel.app/projects/generateur-cv) |
-| 🌐 **Portfolio** | Ce site : Next.js 16 / React 19 / Tailwind v4, double hébergement Vercel + auto-hébergé sur mon lab. | This site: Next.js 16 / React 19 / Tailwind v4, dual-hosted on Vercel + self-hosted on my lab. | [Repo →](https://github.com/DinoGLS/portfolio-v2) |
+| **N.C0re** | App fitness perso (React Native/Expo) — IA locale d'entraînement/nutrition, suivi menstruel, social, 21 sports. Utilisée en vrai 2-3h/jour. | Personal fitness app (React Native/Expo) — local training/nutrition AI, cycle tracking, social features, 21 sports. Actually used daily. | [Portfolio →](https://portfolio-charles-garlens.vercel.app/projects/app-track-muscu) |
+| **DocForge** | Générateur de livrables BTS : notes brutes → Markdown/PDF structuré (Flask, Groq/Gemini, pandoc, WeasyPrint). | BTS deliverable generator: raw notes → structured Markdown/PDF (Flask, Groq/Gemini, pandoc, WeasyPrint). | [Portfolio →](https://portfolio-charles-garlens.vercel.app/projects/docforge) |
+| **Générateur CV** | CV + lettre de motivation personnalisés par entreprise : couleurs de marque extraites, texte adapté par IA, PDF via Playwright. | Company-personalized resume + cover letter generator: brand colors extraction, AI-adapted text, Playwright PDF rendering. | [Portfolio →](https://portfolio-charles-garlens.vercel.app/projects/generateur-cv) |
+| **Portfolio** | Ce site : Next.js 16 / React 19 / Tailwind v4, double hébergement Vercel + auto-hébergé sur mon lab. | This site: Next.js 16 / React 19 / Tailwind v4, dual-hosted on Vercel + self-hosted on my lab. | [Repo →](https://github.com/DinoGLS/portfolio-v2) |
 
 ---
 
@@ -89,6 +89,6 @@ Provisionné en IaC (Terraform + Ansible), réseau segmenté par VLAN, expositio
 
 <div align="center">
 
-**📫 Contact** — [Portfolio / Contact](https://portfolio-charles-garlens.vercel.app/#contact)
+**Contact** — [Portfolio / Contact](https://portfolio-charles-garlens.vercel.app/#contact)
 
 </div>

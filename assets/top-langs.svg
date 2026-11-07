@@ -4,10 +4,10 @@
   <clipPath id="rond"><rect x="25" y="54" width="250" height="8" rx="4"/></clipPath>
   <g clip-path="url(#rond)">
     <rect x="25" y="54" width="250" height="8" fill="#16405f"/>
-    <rect x="25" y="54" width="222.85900358189514" height="8" fill="#3178c6"/>
-    <rect x="247.85900358189514" y="54" width="14.489832582894486" height="8" fill="#f1e05a"/>
-    <rect x="262.34883616478965" y="54" width="11.945451891442755" height="8" fill="#563d7c"/>
-    <rect x="274.2942880562324" y="54" width="2" height="8" fill="#6c8fa3"/>
+    <rect x="25" y="54" width="222.80296447967814" height="8" fill="#3178c6"/>
+    <rect x="247.80296447967814" y="54" width="14.549052888706283" height="8" fill="#f1e05a"/>
+    <rect x="262.3520173683844" y="54" width="11.942448142934442" height="8" fill="#563d7c"/>
+    <rect x="274.2944655113189" y="54" width="2" height="8" fill="#6c8fa3"/>
   </g>
   <circle cx="30" cy="86" r="5" fill="#3178c6"/>
   <text x="41" y="90" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#ffffff">TypeScript 89,1 %</text>

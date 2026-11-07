@@ -92,7 +92,8 @@ const segments = langages.map((l) => {
   x += w;
   return seg;
 }).join("\n    ");
-const H2 = 90 + Math.ceil(langages.length / 2) * 24 + 30;
+// Même hauteur que la carte des stats : les deux images s'alignent côte à côte sur le profil
+const H2 = Math.max(90 + Math.ceil(langages.length / 2) * 24 + 30, H1);
 const langs = `<svg xmlns="http://www.w3.org/2000/svg" width="${LARG}" height="${H2}" viewBox="0 0 ${LARG} ${H2}" role="img" aria-label="Langages les plus utilisés">
   <rect width="${LARG}" height="${H2}" rx="6" fill="${FOND}"/>
   <text x="25" y="38" font-family="${POLICE}" font-size="19" font-weight="700" fill="${TITRE}">Top langages</text>

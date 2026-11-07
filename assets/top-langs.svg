@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="168" viewBox="0 0 300 168" role="img" aria-label="Langages les plus utilisés">
-  <rect width="300" height="168" rx="6" fill="#0a2a49"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="252" viewBox="0 0 300 252" role="img" aria-label="Langages les plus utilisés">
+  <rect width="300" height="252" rx="6" fill="#0a2a49"/>
   <text x="25" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="700" fill="#C6F135">Top langages</text>
   <clipPath id="rond"><rect x="25" y="54" width="250" height="8" rx="4"/></clipPath>
   <g clip-path="url(#rond)">
@@ -17,5 +17,5 @@
   <text x="41" y="114" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#ffffff">CSS 4,8 %</text>
   <circle cx="160" cy="110" r="5" fill="#6c8fa3"/>
   <text x="171" y="114" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#ffffff">Dockerfile 0,3 %</text>
-  <text x="25" y="156" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#8fb0cf">Mis à jour le 7 novembre 2026</text>
+  <text x="25" y="240" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#8fb0cf">Mis à jour le 7 novembre 2026</text>
 </svg>

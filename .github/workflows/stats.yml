@@ -1,0 +1,43 @@
+name: Mise à jour des stats du profil
+
+# Régénère assets/stats.svg et assets/top-langs.svg chaque jour, avec le jeton intégré à GitHub Actions
+# (aucun jeton personnel, aucun service externe). Lancement manuel possible depuis l'onglet Actions.
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate-stats.mjs"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Générer les cartes
+        run: node scripts/generate-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Enregistrer si les cartes ont changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "chore: mise à jour des stats [skip ci]"
+            git push
+          fi

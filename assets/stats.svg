@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="252" viewBox="0 0 495 252" role="img" aria-label="Statistiques GitHub de DinoGLS">
+  <rect width="495" height="252" rx="6" fill="#0a2a49"/>
+  <text x="25" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="700" fill="#C6F135">Statistiques GitHub de Garlens</text>
+  <text x="25" y="78" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#ffffff">Étoiles reçues</text>
+  <text x="330" y="78" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">0</text>
+  <text x="25" y="104" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#ffffff">Commits (total)</text>
+  <text x="330" y="104" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">190</text>
+  <text x="25" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#ffffff">Pull requests</text>
+  <text x="330" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">0</text>
+  <text x="25" y="156" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#ffffff">Tickets ouverts</text>
+  <text x="330" y="156" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">0</text>
+  <text x="25" y="182" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#ffffff">Dépôts publics</text>
+  <text x="330" y="182" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">4</text>
+  <text x="25" y="208" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#ffffff">Abonnés</text>
+  <text x="330" y="208" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">0</text>
+  <text x="25" y="240" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10" fill="#8fb0cf">Mis à jour le 7 novembre 2026</text>
+</svg>

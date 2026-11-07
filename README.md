@@ -78,8 +78,8 @@ Provisionné en IaC (Terraform + Ansible), réseau segmenté par VLAN, expositio
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-alpha-blond-t1rfz3eqbe.vercel.app/api?username=DinoGLS&show_icons=true&hide_border=true&bg_color=0a2a49&title_color=C6F135&text_color=ffffff&icon_color=C6F135)
-![Top langages](https://github-readme-stats-alpha-blond-t1rfz3eqbe.vercel.app/api/top-langs/?username=DinoGLS&layout=compact&hide_border=true&bg_color=0a2a49&title_color=C6F135&text_color=ffffff)
+<img src="assets/stats.svg" alt="GitHub stats" />
+<img src="assets/top-langs.svg" alt="Top langages" />
 
 </div>
 
